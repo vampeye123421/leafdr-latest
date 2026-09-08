@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.2",
-  "versionCode": 3,
+  "versionName": "1.0.3",
+  "versionCode": 4,
   "apkUrl": "https://raw.githubusercontent.com/vampeye123421/leafdr-apk/main/app-release.apk",
-  "notes": "Fix update download 🌿"
+  "notes": "Auto-update test 🌿"
 }
