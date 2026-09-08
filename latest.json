@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.14",
-  "versionCode": 15,
+  "versionName": "1.0.15",
+  "versionCode": 16,
   "apkUrl": "https://raw.githubusercontent.com/vampeye123421/leafdr-apk/main/app-release.apk",
-  "notes": "🌿 Novità di LeafDoc AI 1.0.14\n• Community: post, like e commenti funzionanti\n• Avatar profilo e immagini più affidabili\n• Correzioni di stabilità e UX"
+  "notes": "🌿 Novità di LeafDoc AI 1.0.15\n• Conteggio like e commenti\n• Risposte visualizzate direttamente nella Community\n• Aggiornamenti realtime per nuove interazioni"
 }
