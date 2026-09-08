@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.7",
-  "versionCode": 8,
+  "versionName": "1.0.8",
+  "versionCode": 9,
   "apkUrl": "https://raw.githubusercontent.com/vampeye123421/leafdr-apk/main/app-release.apk",
-  "notes": "🌿 Novità di LeafDoc AI 1.0.7\n\n• Pagine dedicate agli acquisti: riuscito ✅, annullato, o errore — con riepilogo delle funzioni sbloccate\n• Acquisti Pro ora funzionanti sul telefono\n• Corretta la modalità demo rimasta attiva per sbaglio\n\n(1.0.6 include: nuove schede piante, piano di cura AI, risposte alle notifiche di annaffiatura, stato di salute in italiano, pagine legali, aggiornamenti più veloci)"
+  "notes": "🌿 Novità di LeafDoc AI 1.0.8\n• Barra di avanzamento del download ora funzionante (mostra la percentuale reale)\n• L'installazione parte automaticamente a download completato\n• Badge PRO toccabile: apre la pagina di gestione abbonamento\n• Pulsante Annulla più reattivo durante il download\n• Scatti di rete gestiti senza bloccare il download"
 }
