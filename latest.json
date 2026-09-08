@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.11",
-  "versionCode": 12,
+  "versionName": "1.0.13",
+  "versionCode": 14,
   "apkUrl": "https://raw.githubusercontent.com/vampeye123421/leafdr-apk/main/app-release.apk",
-  "notes": "🌿 Novità di LeafDoc AI 1.0.11\n• UX e interfaccia più pulite e coerenti\n• Controllo salute più chiaro e organizzato\n• Diagnosi, messaggi e notifiche tradotti in inglese e italiano"
+  "notes": "🌿 Novità di LeafDoc AI 1.0.13\n• Community reale con post, like e commenti\n• Pannello admin protetto per gestione utenti e moderazione\n• UX e interfaccia più pulite e coerenti"
 }
