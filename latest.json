@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.8",
-  "versionCode": 9,
+  "versionName": "1.0.9",
+  "versionCode": 10,
   "apkUrl": "https://raw.githubusercontent.com/vampeye123421/leafdr-apk/main/app-release.apk",
-  "notes": "🌿 Novità di LeafDoc AI 1.0.8\n• Barra di avanzamento del download ora funzionante (mostra la percentuale reale)\n• L'installazione parte automaticamente a download completato\n• Badge PRO toccabile: apre la pagina di gestione abbonamento\n• Pulsante Annulla più reattivo durante il download\n• Scatti di rete gestiti senza bloccare il download"
+  "notes": "🌿 Novità di LeafDoc AI 1.0.9\n• AI più sicura: le chiavi restano sul server (Edge Functions), non nell'app\n• Rimosso \"Ripristina acquisti\": lo stato si sincronizza da solo\n• Nuovo pulsante \"Gestisci abbonamento\" per annullare o cambiare piano\n• Installazione automatica a download completato\n• Barra di avanzamento del download corretta\n• Collegamenti dell'AI limitati a siti sicuri (https)"
 }
