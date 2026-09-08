@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.6",
-  "versionCode": 7,
+  "versionName": "1.0.7",
+  "versionCode": 8,
   "apkUrl": "https://raw.githubusercontent.com/vampeye123421/leafdr-apk/main/app-release.apk",
-  "notes": "🌿 Novità di LeafDoc AI 1.0.6\n\n• Nuove schede piante: Home e Giungla rinnovate\n• L'AI decide il piano di cura (annaffiatura e concimazione) in base alla specie e alla stagione\n• Rispondi alle notifiche di annaffiatura: \"Ora innaffio\" o \"Non posso ora\" — l'AI aggiorna la salute e i promemoria\n• Date di ultima annaffiatura e concimazione obbligatorie quando aggiungi una pianta\n• Stato di salute in italiano, preso anche dalle scansioni\n• Pagine legali: Privacy, Termini, Cookie, Rimborsi\n• Aggiornamenti automatici più veloci, con progresso e pulsante Annulla\n• Nome e note compilati automaticamente quando salvi una pianta dalla diagnosi\n• Messaggio amichevole quando l'AI è molto occupata"
+  "notes": "🌿 Novità di LeafDoc AI 1.0.7\n\n• Pagine dedicate agli acquisti: riuscito ✅, annullato, o errore — con riepilogo delle funzioni sbloccate\n• Acquisti Pro ora funzionanti sul telefono\n• Corretta la modalità demo rimasta attiva per sbaglio\n\n(1.0.6 include: nuove schede piante, piano di cura AI, risposte alle notifiche di annaffiatura, stato di salute in italiano, pagine legali, aggiornamenti più veloci)"
 }
